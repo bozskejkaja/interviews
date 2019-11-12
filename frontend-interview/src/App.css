@@ -1,0 +1,24 @@
+body,
+html {
+  height: 100%;
+  font-family: "Inter";
+}
+
+.app {
+  text-align: center;
+  background-image: url("prague.png");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+.app h1 {
+  user-select: none;
+  margin: 0 auto;
+  color: white;
+  font-size: 100px;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+}
