@@ -11,9 +11,7 @@ Let's build a "public transport usage viewer" as a webapp. Imagine you are commu
 1. You you have the perfect backend which has all the information about the public transport prediction. However, you somehow need to expose it (via an API, WebSockets, databse or something). How would you do that, why?
 2. Stack/tech for building frontend. Also probe deeper into how they set up repo - CI and so on.
 3. How would you "design" the layout of the website, what high-level components will you need?
-4. Do they use React, why yes, why not? Do they use functional components? How would you test these components?
-5. Do they use Redux, why yes, why not? How do they design the redux state? Is it flat?
-6. Do they use Typescript, why, why not? How would they set it up? What would be some example interfaces here?
-7. Dev tools - debugging and code linting?
-8. Have you ever used refs? for what?
-9. Do you have any opinion about stylesheets? What are your current workflows - why?
+4. You will presumably need to display a map for this app, how would you go about that? How woudl you go about pathfinding?
+5. Do they use React, why yes, why not? Do they use functional components? How would you test these components?
+6. Do they use Redux, why yes, why not? How do they design the redux state? Is it flat?
+7. Do they use Typescript, why, why not? How would they set it up? What would be some example interfaces here?
